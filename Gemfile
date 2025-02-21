@@ -29,3 +29,4 @@ group :development, :test do
 end
 
 
+gem "amazing_print"
