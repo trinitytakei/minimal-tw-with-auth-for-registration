@@ -26,3 +26,11 @@
 !/app/assets/builds/.keep
 
 /node_modules
+
+package-lock.json
+.yarn/cache
+.yarn/install-state.gz
+.yarn/build-state.yml
+.yarn/unplugged
+.pnp.*
+lib/scripts/*.txt
